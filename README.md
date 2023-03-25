@@ -36,9 +36,9 @@ A project to demonstrate setting up a Ruby on Rails project as a backend only ap
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
-  <summary>Client</summary>
+  <summary>Client (<a href="https://github.com/emmiiorji/react-rails-frontend-setup">Client Repository</a>)</summary>
   <ul>
-    <li><a href="https://rubyonrails.org/">Ruby on Rails</a></li>
+    <li><a href="https://legacy.reactjs.org/docs/getting-started.html">React</a></li>
   </ul>
 </details>
 
@@ -60,9 +60,7 @@ A project to demonstrate setting up a Ruby on Rails project as a backend only ap
 
 ### Key Features <a name="key-features"></a>
 
-- **Sign up and log in**
-- **Manage a category**
-- **Manage transaction belonging to a category**
+- **Demonstrate creating API-only rails app**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
